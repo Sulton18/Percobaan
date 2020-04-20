@@ -25,6 +25,8 @@
         android:text="Tampil"
         tools:layout_editor_absoluteX="217dp"
         tools:layout_editor_absoluteY="72dp" />
+    <TextView
+        android:id="@+id/sulton"/>
 
     <TextView
         android:id="@+id/textView"
